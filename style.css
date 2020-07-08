@@ -23,4 +23,8 @@ cursor: pointer;
     .categories h1 {color:cornsilk;}
     .categories img {width: 100px;}
     .card {border: none;
-    box-shadow: 5px 5px 10px lightgrey;}
+    box-shadow: 5px 5px 10px lightgrey;
+     border-radius: 10px;}
+#subscribe {height: 300px;}
+#subscribe h6 {color: grey;}
+footer {text-align: center;}
